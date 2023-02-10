@@ -10,4 +10,4 @@ Find the source inside of [/web](/web/), (`index.html`, `freqcalc.js`, `index.js
 
 ## Libraries
 Node and web - [/lib/main.js](/lib/main.js), node only [/lib/npmonly.js](/lib/npmonly.js), web only [/lib/webonly.js](/lib/webonly.js) or [/web/freqcalc.js](/web/freqcalc.js),
-variable - [/lib/variable.js](/lib/const.js), const - [/lib/const.js](/lib/const.js), TS let - [/lib/let.ts], TS namespace(makecode) - [/lib/space.ts]
+variable - [/lib/variable.js](/lib/const.js), const - [/lib/const.js](/lib/const.js), TS let - [/lib/let.ts](/lib/let.ts), TS namespace(makecode) - [/lib/space.ts](/lib/space.ts)
