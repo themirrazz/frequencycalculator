@@ -3,7 +3,7 @@ How many times does something happen in a second? In a minute? In an hour? A day
 
 
 ## Demo nodes
-[Replit](https://ithappensfreq.awesomecrater.repl.co/),[Github Pages](https://themirrazz.github.io/ithappensfreq/)
+[Replit](https://ithappensfreq.awesomecrater.repl.co/), [Github Pages(soon)](https://themirrazz.github.io/ithappensfreq/)
 
 ## Website
 Find the source inside of [/web](/web/), (`index.html`, `freqcalc.js`, `index.js`, and `style.css`)
